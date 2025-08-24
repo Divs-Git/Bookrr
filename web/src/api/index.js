@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export default class ApiService {
-    static BASE_URL = "https://bookrr.onrender.com";
+    static BASE_URL = "https://bookrr.onrender.com/api";
 
     static getHeader() {
         const token = localStorage.getItem("token");
