@@ -1,41 +1,41 @@
-# 🏨 Bookrr
+# Bookrr
 
 Bookrr is a **hotel booking platform** built with a **Java Spring Boot backend** and a **React frontend**.  
 It provides a smooth experience for browsing rooms, booking stays, and managing user profiles — designed with a modern, elegant UI for both guests and admins.
 
 ---
 
-## ✨ Features
+## Features
 
--   🔐 **Authentication & Authorization**
+-   **Authentication & Authorization**
 
     -   JWT-based login & signup
     -   Role-based access (User / Admin)
 
--   🏠 **Hotel & Room Management**
+-   **Hotel & Room Management**
 
     -   View all available rooms without login
     -   Search & filter by price, type, and amenities
     -   Admin dashboard for adding/updating rooms
 
--   📅 **Booking System**
+-   **Booking System**
 
     -   Real-time room availability check
     -   Book, confirm, and cancel reservations
     -   Booking history per user
 
--   👤 **User Profile**
+-   **User Profile**
 
     -   Manage personal details
     -   View & manage your bookings
 
--   📱 **Responsive UI**
+-   **Responsive UI**
     -   Built with React + Tailwind
     -   Optimized for desktop & mobile
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
