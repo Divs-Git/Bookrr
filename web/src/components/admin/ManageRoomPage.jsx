@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import ApiService from "../../api";
 import { useEffect, useState } from "react";
-import Pagination from "../common/pagination";
+import Pagination from "../common/Pagination";
 import RoomResult from "../common/RoomResult";
 
 const ManageRoomPage = () => {

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Pagination from "../common/pagination";
+import Pagination from "../common/Pagination";
 import ApiService from "../../api";
 import { useNavigate } from "react-router-dom";
 
